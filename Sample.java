@@ -5,6 +5,6 @@ System.out.println("Starting with Jenkins:");
 System.out.println("******welcome to automation******");
 System.out.println("******welcome to automation******");
   System.out.println("******welcome to automation******");
-  System.out.println("ENd");
+  System.out.println("END");
   }
 }
